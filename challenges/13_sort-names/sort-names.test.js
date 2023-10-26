@@ -2,8 +2,8 @@ const { sortNames } = require('./sort-names')
 
 describe('sortNames', () => {
   test('Correctly sorts the array', () => {
-    const trainers = ["Ree", "romeo", "emile", "sergi"];
-    const output = [ 'emile', 'Ree', 'romeo', 'sergi' ];
+    const trainers = ["Ree", "romeo", "emile", "sarah"];
+    const output = [ 'emile', 'Ree', 'romeo', 'sarah' ];
 
     const result = sortNames(trainers);
     
