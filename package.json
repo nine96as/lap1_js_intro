@@ -1,0 +1,23 @@
+{
+  "name": "jest_intro_exercises_2023_10_25",
+  "scripts": {
+    "test": "jest --watchAll",
+    "add": "jest --watchAll --testPathPattern=add",
+    "hello": "jest --watchAll --testPathPattern=hello",
+    "capitalise": "jest --watchAll --testPathPattern=capitalise",
+    "swapcase": "jest --watchAll --testPathPattern=swapcase",
+    "reverse1": "jest --watchAll --testPathPattern=reverse1",
+    "upcase": "jest --watchAll --testPathPattern=upcase",
+    "downcase": "jest --watchAll --testPathPattern=downcase",
+    "evens": "jest --watchAll --testPathPattern=evens",
+    "howIndex": "jest --watchAll --testPathPattern=how-index",
+    "reverse3": "jest --watchAll --testPathPattern=reverse3",
+    "max": "jest --watchAll --testPathPattern=max",
+    "sortWords": "jest --watchAll --testPathPattern=sort-words",
+    "sortNames": "jest --watchAll --testPathPattern=sort-names"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "author": "rom-30"
+}
