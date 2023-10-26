@@ -1,8 +1,9 @@
 # Intro to JavaScript
 
-- Fork the repo
-- Clone the repo
+- Fork and clone the repo
 - In your terminal - `npm install`
+
+Your goal is to solve the challenges below, the tests will tell you what to do :)
 
 ## 01 - hello
 - `npm run hello`
